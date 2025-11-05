@@ -1,0 +1,7 @@
+ /* CSS voor een div container rond elke individuele Plot component. */
+ width: 25% !important;
+ padding: 1em;
+ border: 1px solid #ffffff;
+ color: #ffffff;
+ border-radius: 5px;
+ margin: .5em;

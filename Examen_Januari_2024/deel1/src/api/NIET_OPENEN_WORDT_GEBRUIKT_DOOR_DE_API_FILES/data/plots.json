@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6ebdfab9-2cc0-4bbf-94ad-2bce39a7f0a7",
+    "plant": "carrots",
+    "state": "planted"
+  },
+  {
+    "id": "99375eaf-1f4a-488c-b8bf-f323b62bd891",
+    "plant": "beans",
+    "state": "trimmed"
+  },
+  {
+    "id": "5ce74ca0-d51c-4bef-8963-05f9638bd443",
+    "plant": "broccoli",
+    "state": "harvested"
+  },
+  {
+    "id": "bbad79d7-c4a9-4d45-97f1-4819153df946",
+    "plant": "potatoes",
+    "state": "planted"
+  }
+]
